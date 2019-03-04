@@ -1,0 +1,29 @@
+label 
+{
+  display: block;
+}
+
+input 
+{
+  padding-top: 10px;
+  margin-top: 10px;
+  margin-left: 20px;
+  outline: none;
+  border-color: transparent;
+  border-bottom: 1px solid #aaa;
+  background: transparent;
+  color: #a06690;
+}
+
+input[type="checkbox"]
+{
+  margin: 20px 10px 0px 0px;
+}
+
+span
+{
+  margin-left: 10px;
+  font-size: 10px;
+  font-style: italic;
+  color: rgb(255, 0, 0);
+}

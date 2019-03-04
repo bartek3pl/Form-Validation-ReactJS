@@ -1,0 +1,17 @@
+.header
+{
+  margin: 200px auto 0px auto;
+  width: 720px;
+  background-image: linear-gradient(to top, #d299c2 0%, #fdd0f4 100%);
+  height: 90px;
+  border: 2px #fef9d7 solid;
+  border-bottom: none;
+}
+
+h1
+{
+  padding-bottom: 20px;
+  margin-left: 10px;
+  font-weight: 600;
+  color: #a06690;
+}
